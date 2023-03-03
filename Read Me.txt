@@ -1,0 +1,15 @@
+Cómo ejecutar el proyecto del sistema de gestión hospitalaria (HMS)
+
+ Extraiga el archivo y copie la carpeta del hospital
+
+ Pegue dentro del directorio raíz (para xampp xampp/htdocs, para wamp wamp/www, para lamp var/www/html)
+
+ Abra PHPMyAdmin (http://localhost/phpmyadmin)
+
+ Importe el archivo hms.sql (dentro del paquete zip en la carpeta de archivos SQL)
+
+6.Ejecute el script http://localhost/hospital (frontend)
+Login Details
+detalles de registro for admin : admin/Test@12345
+detalles de registro for Patient: test@gmail.com/Test@123
+detalles de registro for Doctor: test@demo.com/Test@123
